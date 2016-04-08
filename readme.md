@@ -1,4 +1,4 @@
 # Dotfiles
 
-These are my dotfiles, some of them are shared between my machines and some are not.
-Use them if you like
+* Sublime Text 3 configs and plugins list
+* Ubuntu app list and bashrc

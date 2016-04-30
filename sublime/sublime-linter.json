@@ -16,7 +16,13 @@
           "/home/ramon/.rbenv/shims/slim-lint",
           "/usr/bin/sass-lint"
       ],
-      "osx": [],
+      "osx": [
+        "/usr/local/bin/coffee",
+        "/Users/ramongr/.rbenv/shims/ruby",
+        "/usr/local/bin/sass-lint",
+        "/Users/ramongr/.rbenv/shims/slim-lint",
+        "/usr/local/bin/csslint"
+      ],
       "windows": []
     },
     "python_paths": {

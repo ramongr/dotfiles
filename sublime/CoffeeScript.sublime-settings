@@ -1,0 +1,9 @@
+{
+  "compileDir": true,
+  "compileOnSave": true,
+  "compilePaths": 
+  {
+    "/home/ramon/Documents/Projects/js/poppins": "js/"
+  },
+  "sourceMaps": true 
+}
